@@ -1,0 +1,256 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:ital,opsz,wght@0,14..32,100..900;1,14..32,100..900&display=swap');
+
+*{
+    margin: 0 auto;
+    padding: 0;
+    list-style: none;
+    text-decoration: none;
+      font-family: "Inter", sans-serif;
+
+}
+
+.con{
+    width: 1440px;
+    background-color: #DEE2E6;
+}
+
+.navbar{
+    background-color: #212529;
+    width: 1440px;
+    height: 70px;
+    display: flex;
+}
+
+.menu ul{
+    display: flex;
+    gap: 40px;
+    color: #fff;
+}
+
+.menu a{
+    color: #fff;
+    font-size: 20px;
+}
+
+.main-title h1{
+    font-size: 64px;
+}
+
+.lrm-btns button{
+    width: 123px;
+    height: 44px;
+    border: 2px solid #000;
+    border-radius: 10px;
+
+}
+
+.btrn{
+    width: 115px;
+    height: 44px;
+    border-radius: 10px;
+    color: #fff;
+    background-color: #000;
+}
+
+.main-title{
+    width: 284px;
+    height: 242px;
+    margin-left: 280px;
+    margin-top: 170px;
+}
+
+.main{
+    display: flex;
+}
+.lrm{
+    width: 608px;
+    height: 100px;
+}
+
+.about-h1{
+    width: 189px;
+    font-size: 64px;
+}
+
+.lrm p{
+    font-size: 20px;
+}
+
+.about-me{
+    display: flex; 
+    width: 1440px;
+    height: 350px;
+    background-color: #fff;
+    align-items: center;
+}
+
+.services{
+    background-color: #DEE2E6;
+    text-align: center;
+}
+
+.services p{
+    color: #6C757D;
+    width: 600px;
+}
+
+#h1{
+    font-size: 64px;
+    margin-top: 66px;
+    padding-top: 66px;
+}
+
+.devel{
+    display: flex;
+    align-items: center;
+}
+
+.development img{
+    margin-top: 35px;
+}
+
+.development h1{
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
+
+.development p{
+    color: #fff;
+    width: 210px;
+}
+
+.development{
+    width: 270px;
+    height: 300px;
+    color: #fff;
+    background-color: #212529;
+    margin-bottom: 89px;
+    text-align: center;
+    margin-top: 40px;
+    border-radius: 10px;
+}
+
+.item{
+    width: 200px;
+    height: 200px;
+    border-radius: 10px;
+    background-color: #C2C2C2;
+}
+.menu-learn{
+    display: flex;
+    gap: 10px;
+    width: 900px;
+}
+
+
+
+.blog h1{
+    font-size: 64px;
+    text-align: center;
+
+}
+
+.blog{
+    background-color: #F8F9FA;
+    height: 600px;
+}
+
+.learn{
+    display: flex;
+    align-items: center;
+    color: #212529;
+    font-weight: 400;
+    width: 430px;
+    height: 200px;
+    background-color: #D9D9D9;
+    border-radius: 10px;
+    margin-top: 20px;
+}
+
+.title{
+    margin-left: 30px;
+}
+.num{
+    display: flex;
+    width: 180px;
+    gap: 10px;
+}
+.num-title p{
+    margin-top: 9px;
+}
+
+.Message{
+    display: flex;
+}
+
+.num-title{
+    margin-bottom: 10px;
+}
+
+.send-me h1{
+    /* margin-right: 40px; */
+    transform: translate(-170px);
+    margin-bottom: 20px;
+}
+
+.social{
+    text-align: center;
+    transform: translateY(00px);
+}
+.messege{
+    display: flex;
+}
+
+.contact{
+    text-align: center;
+}
+.email input{
+    width: 300px;
+    height: 40px;
+    border-radius: 10px;
+    background-color: #212529;
+    margin-left: 10px;
+}
+
+.mess input{
+    width: 620px;
+    margin-top: 20px;
+    height: 120px;
+    margin-left: 10px;
+    border-radius: 10px;
+
+    background-color: #212529;
+
+}
+.ridho-s{
+    /* width: 1440px; */
+    height: 60px;
+    background-color: #212529;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin-top: 30px;
+    color: #fff;
+}
+
+#cntc{
+    font-size: 64px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+/* atom odatlar */
